@@ -2,7 +2,7 @@
 Vanilla.jsだけでゲームを作る
 
 # DEMO
-https://yuki-sakaguchi.github.io/8bit_rpg/
+https://yuki-sakaguchi.github.io/8bit_rpg/index.html
 
 
 # 参考
